@@ -1,7 +1,7 @@
 ## Olá, eu sou o Murilo Gomes Munhoz
 
-- 🔭 Hoje estou trabalhando com back-end e front-end
-- 🌱 Estudando Javascript
+- 🔭 Hoje estou trabalhando como DevOps
+
 
  <div>
   <a href="https://github.com/MuriloGomesMunhoz">
