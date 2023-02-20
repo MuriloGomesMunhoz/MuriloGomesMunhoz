@@ -1,6 +1,6 @@
 ## Olá, eu sou o Murilo Gomes Munhoz
 
-- 🔭 Hoje estou trabalhando como DevOps
+- 🔭 Atualmente estou trabalhando como DevOps
 
 
  <div>
